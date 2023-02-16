@@ -20,7 +20,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/tree/main/
 This is the domain of Computer Vision where the projects built with CNN architecture, RCNN, Fast RCNN, Faster RCNN, Yolo with its version, and OpenCV.
 
 
-Latest Project was Polyp Detection with 3000 datasets that downloaded from Roboflow. This was trained with Yolo version 5, custom training. The mPA score is above 89%.
+1. Latest Project was Polyp Detection with 3000 datasets that downloaded from Roboflow. This was trained with Yolo version 5, custom training. The mPA score is above 89%.
 
 The link of this project is given below:
 
@@ -33,7 +33,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/blob/main/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Latest Project was Liver Disease Detection with 4000 datasets that downloaded from Roboflow. This was trained with Yolo version 5, custom training. The mPA score is above 83%.
+2. Latest Project was Liver Disease Detection with 4000 datasets that downloaded from Roboflow. This was trained with Yolo version 5, custom training. The mPA score is above 83%.
 
 The video of this project is given below:
 
@@ -42,7 +42,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/blob/main/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Warehouse safety measuremt object detection. This dataset was downloaded from Roboflow and the performance is good. The approach that I used is Yolo large version 5 and the mPA is good enough.
+3. Warehouse safety measuremt object detection. This dataset was downloaded from Roboflow and the performance is good. The approach that I used is Yolo large version 5 and the mPA is good enough.
 
 The link of this project is given below:
 
@@ -51,7 +51,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/blob/main/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Face mask Detection using CNN architecture and OpenCV. The accuracy was above 98% with recall, precisiona and f1 score is 98, 97, 99% respectively.
+4. Face mask Detection using CNN architecture and OpenCV. The accuracy was above 98% with recall, precisiona and f1 score is 98, 97, 99% respectively.
 
 The link is given below:
 
@@ -60,7 +60,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/blob/main/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Leaf Disease Detection using Detectron2 with the model Zoo - Custom Training. I also used Yolo version 5 for comparision the model performance.
+5. Leaf Disease Detection using Detectron2 with the model Zoo - Custom Training. I also used Yolo version 5 for comparision the model performance.
 
 The link is given below:
 
@@ -70,7 +70,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/blob/main/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This is the Simple object Detection peoject that is used in TFOD2.x without custom training. 
+6. This is the Simple object Detection peoject that is used in TFOD2.x without custom training. 
 
 The link is given below:
 
@@ -78,7 +78,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/blob/main/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This is the project named X-ray classification for the disease named Pneumenia. The approach that I used in CNN architecture, for instance, own architecture, Pre trained model, for example, VGG16, ResNet, InceptionNet. In this pretrained model, the approach that I used is Feature Extraction and Fine Tuning. Then I used the OpenCV model to do the object Detection.
+7. This is the project named X-ray classification for the disease named Pneumenia. The approach that I used in CNN architecture, for instance, own architecture, Pre trained model, for example, VGG16, ResNet, InceptionNet. In this pretrained model, the approach that I used is Feature Extraction and Fine Tuning. Then I used the OpenCV model to do the object Detection.
 
 
 The link is given below:
@@ -87,7 +87,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/blob/main/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This is the project named Smoke classification. The approach that I used in CNN architecture, for instance, own architecture, Pre trained model, for example, VGG16, ResNet, InceptionNet. In this pretrained model, the approach that I used is Feature Extraction and Fine Tuning. Then I used the OpenCV model to do the object Detection.
+8. This is the project named Smoke classification. The approach that I used in CNN architecture, for instance, own architecture, Pre trained model, for example, VGG16, ResNet, InceptionNet. In this pretrained model, the approach that I used is Feature Extraction and Fine Tuning. Then I used the OpenCV model to do the object Detection.
 
 The link is given below:
 
@@ -97,9 +97,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/blob/main/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-The link is given below:
-
-This is the project named COVID-19 classification. The approach that I used in CNN architecture, for instance, own architecture, Pre trained model, for example, VGG16, ResNet, InceptionNet. In this pretrained model, the approach that I used is Feature Extraction and Fine Tuning as well using SIGMOD activation function in the last layer. Then I used the OpenCV model to do the object Detection.
+9. This is the project named COVID-19 classification. The approach that I used in CNN architecture, for instance, own architecture, Pre trained model, for example, VGG16, ResNet, InceptionNet. In this pretrained model, the approach that I used is Feature Extraction and Fine Tuning as well using SIGMOD activation function in the last layer. Then I used the OpenCV model to do the object Detection.
 
 The link is given below:
 
@@ -108,7 +106,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/blob/main/
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-BREAST Cancer Classification with the Image Dataset. Using Normal CNN architecture. The accuracy of this model surpassed the fine tuning model - pretrained, for example, VGG16, ResNet, InceptionNet, MobileNet.
+10. BREAST Cancer Classification with the Image Dataset. Using Normal CNN architecture. The accuracy of this model surpassed the fine tuning model - pretrained, for example, VGG16, ResNet, InceptionNet, MobileNet.
 
 The link is given below:
 
