@@ -10,7 +10,7 @@ https://github.com/atikul-islam-sajib/Deep-Learning---Computer-Vision/tree/main/
 
 
                                               
-                                                              Atikul Islam Sajib
+                                                      Atikul Islam Sajib
 
 
 
