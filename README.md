@@ -1,4 +1,14 @@
 # Deep-Learning---Computer-Vision
+
+ALL THE PROJECTS ARE IN THE FOLDER. SOME OF THE CRUCIAL PROJECTS THAT I AM GOING TO MENTIONED HERE. REST OF THE OTHERS FIND IN THAT CERTAIN FOLDER.HAVE A LOOK.
+                                              
+                                                              Atikul Islam Sajib
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 This is the domain of Computer Vision where the projects built with CNN architecture, RCNN, Fast RCNN, Faster RCNN, Yolo with its version, and OpenCV.
 
 
