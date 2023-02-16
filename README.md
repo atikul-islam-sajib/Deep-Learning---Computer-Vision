@@ -1,6 +1,6 @@
 # Deep-Learning---Computer-Vision
 
-ALL THE PROJECTS ARE IN THE FOLDER. SOME OF THE CRUCIAL PROJECTS THAT I AM GOING TO MENTIONED HERE. REST OF THE OTHERS FIND IN THAT CERTAIN FOLDER.HAVE A LOOK.
+ALL THE PROJECTS ARE IN THE FOLDER NAMED `Deep Learning - Computer Vision Using CNN & OpenCV`. SOME OF THE CRUCIAL PROJECTS THAT I AM GOING TO MENTIONED HERE. REST OF THE OTHERS FIND IN THAT CERTAIN FOLDER.HAVE A LOOK.
                                               
                                                               Atikul Islam Sajib
 
